@@ -1,8 +1,10 @@
-# WEG3D-DOC — Сергій Розум
+# WEG3DOC — Сергій Розум
 
 Capstone для **fwdays · Crash Course: Agentic Engineering** (вересень 2026).
 
 У цій теці лише матеріали агентної інженерії: правила контексту, специфікації, журнали циклів і рев'ю, звіти eval/vision, агенти Project Factory. Вихідний код застосунку сюди не входить.
+
+Опис практик і відео-демо: https://github.com/koldovsky/2026-agentic-engineering-crash-course-capstone/pull/17
 
 | Практика | Де дивитися |
 | --- | --- |

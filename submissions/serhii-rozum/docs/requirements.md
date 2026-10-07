@@ -1,4 +1,4 @@
-# PRD — WEG3D-DOC
+# PRD — WEG3DOC
 
 Last updated: 2026-07-10
 

@@ -7,7 +7,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 <!-- BEGIN:design-system-rules -->
 # WEG3D Fin Design System  
 
-WEG3D-DOC uses the **WEG3D Fin** light theme. Read `Design.md` before changing UI.
+WEG3DOC uses the **WEG3D Fin** light theme. Read `Design.md` before changing UI.
 
 ## Quick reference
 
@@ -41,7 +41,7 @@ Geist Sans and Geist Mono are loaded in `src/app/layout.tsx` via `next/font/goog
 <!-- BEGIN:openspec-rules -->
 # OpenSpec (Spec-Driven Development)
 
-WEG3D-DOC uses **OpenSpec** for feature planning and living specifications.
+WEG3DOC uses **OpenSpec** for feature planning and living specifications.
 **Read `openspec/specs/<capability>/spec.md` first** for behavior; use this
 file for agent rules and UI conventions.
 
@@ -90,7 +90,7 @@ CLI equivalents: `openspec new change <name>`, `openspec status`, `openspec list
 <!-- BEGIN:docs-rules -->
 # Project documentation (`docs/`)
 
-WEG3D-DOC keeps **human-readable project docs** in `docs/`. Use them for
+WEG3DOC keeps **human-readable project docs** in `docs/`. Use them for
 context, traceability, and session continuity. They complement — but do not
 replace — OpenSpec specs in `openspec/specs/`.
 

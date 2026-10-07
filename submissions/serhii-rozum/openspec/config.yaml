@@ -2,7 +2,7 @@ schema: spec-driven
 
 # Injected into OpenSpec artifact instructions (propose, design, tasks, delta specs).
 context: |
-  Project: WEG3D-DOC — browser-first bilingual (EN + UA) invoice generator
+  Project: WEG3DOC — browser-first bilingual (EN + UA) invoice generator
   for a Ukrainian sole entrepreneur (ФОП) billing foreign clients in USD or EUR.
 
   Authoritative spec: openspec/specs/<capability>/spec.md (validate with
