@@ -14,3 +14,4 @@ Capstone для **fwdays · Crash Course: Agentic Engineering** (вересен�
 | maker ≠ checker | `docs/qa/checker-handoff-form-input.md`, `.claude/agents/` |
 | Верифікація | `docs/qa/eval-report.md`, `docs/qa/vision-report.md`, `quality/coverage-baseline.json` |
 | Project Factory | `factory-lock.json`, `.claude/agents/` |
+| Skills | `.agents/skills/`, `.cursor/skills/` |
